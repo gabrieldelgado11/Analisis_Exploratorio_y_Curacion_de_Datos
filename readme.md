@@ -5,12 +5,12 @@
 **Exploración y Curación de Datos**
 
 ---
-## Trabajo práctico entregable - Parte 2
+## Trabajo práctico entregable
 
 * Adriano Antonello
 * Gabriel Delgado
 * Pablo Casas
----
+
 
 ## PARTE 1
 
